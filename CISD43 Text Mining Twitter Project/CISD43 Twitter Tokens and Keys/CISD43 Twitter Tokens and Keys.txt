@@ -1,0 +1,7 @@
+CISD43 Twitter Tokens and Keys
+
+access_token = '1516850204292526080-LAeSsJ4wVSPPREK0VCZKa0sNjngEjN'
+access_secret = 'vrfoi7kkFwntlPkoaolxuccmJU9nnBwDqOA0CsetzumUK'
+
+consumer_key = 'dnZJ0nONNrLf148YoCSjRAc8w'
+consumer_secret = 'gOR0ws6HI9mkPo3keWbP621iv3Rz93TNRW8eh6LLJPdNxWP1oD'
